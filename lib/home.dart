@@ -50,9 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
       Icon(Iconsax.play),
       Icon(Iconsax.shopping_cart),          // Replaced with a valid icon
-      Icon(Iconsax.home),
-      Icon(Iconsax.setting),       // Correct icon name
-      Icon(Iconsax.user),
+
 
      // Replaced with a valid icon
   ];

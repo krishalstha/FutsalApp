@@ -72,7 +72,7 @@ class _IndexScreenState extends State<IndexScreen> {
         centerTitle: true,
       ),
 
-
+//change
       bottomNavigationBar: CurvedNavigationBar(
         backgroundColor: bgColor,
         items: _navigationItems,
