@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'regmain.dart';
 import 'forget.dart';
 import 'home.dart';
-
+//commint
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Platform.isAndroid
